@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,django,flask,mysql,arduino,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,postman,git,github,aws" />
+    <img src="https://skillicons.dev/icons?i=Python,Sql,Pyspark,Spark" /><br>
+    <img src="https://skillicons.dev/icons?i=Hadoop,Airflow,Github,Aws" />
 </div>
 
 <br/>
@@ -40,9 +40,9 @@
 <div align="center">
 <!--   <h2>🐍 My Contributions 🐍</h2> -->
   <br>
-<!--   <img src="https://github.com/prashant-ksingh/prashant-ksingh/blob/output/github-contribution-grid-snake.gif"/> -->
+<!--   <img src="https://github.com/rahulmars007/rahulmars007/blob/output/github-contribution-grid-snake.gif"/> -->
 </div>
-<!-- ![snake gif](https://github.com/prashant-ksingh/prashant-ksingh/blob/output/github-contribution-grid-snake.gif) -->
+<!-- ![snake gif](https://github.com/rahulmars007/rahulmars007/blob/output/github-contribution-grid-snake.gif) -->
 
 <hr/>
 
