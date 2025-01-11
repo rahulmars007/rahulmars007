@@ -30,10 +30,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=Python,Sql,Pyspark,Spark" alt="Skill Icons 1" />
-<br>
-<img src="https://skillicons.dev/icons?i=Hadoop,Airflow,Github,Aws" alt="Skill Icons 2" />
-
+  <img src="https://fontawesome.com/icons/python?f=brands&s=solid" alt="Python" />
+  <img src="https://fontawesome.com/icons/database?f=solid&s=solid" alt="SQL" />
+  <img src="https://fontawesome.com/icons/sparkles?f=solid&s=solid" alt="Spark" />
+  <img src="https://fontawesome.com/icons/airbnb?f=brands&s=brands" alt="Airflow" />
+  <img src="https://fontawesome.com/icons/airbnb?f=brands&s=brands" alt="Aws" />
 </div>
 
 <br/>
