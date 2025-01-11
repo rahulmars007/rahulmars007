@@ -30,11 +30,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://fontawesome.com/icons/python?f=brands&s=solid" alt="Python" />
-  <img src="https://fontawesome.com/icons/database?f=solid&s=solid" alt="SQL" />
-  <img src="https://fontawesome.com/icons/sparkles?f=solid&s=solid" alt="Spark" />
-  <img src="https://fontawesome.com/icons/airbnb?f=brands&s=brands" alt="Airflow" />
-  <img src="https://fontawesome.com/icons/airbnb?f=brands&s=brands" alt="Aws" />
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 </div>
 
 <br/>
