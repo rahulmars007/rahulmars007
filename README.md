@@ -3,16 +3,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&multiline=true&width=450&height=65&lines=Hi+There!+%F0%9F%91%8B;I'm+Rahul+Prajapati+" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer and Robo Enthusiast from INDIA</h3>
+<h3 align="center">Big Data Engineer specializing in developing large-scale data processing systems using the Spark framework (Spark Core, Spark SQL) with Scala, Python, and AWS services (EMR, EC2, S3). Seeking to leverage expertise in Spark, PySpark, Hadoop, and related technologies to contribute effectively to a dynamic team.</h3>
 
 <br/>
 
 <div align="center">
-         - 🔭 Worked professionally as SDE-1 on <a href="https://onepost.sasone.in">[OnePost]</a>&<a href="https://www.sasone.in/">[SASOne]</a> <br/>
-         - 🌱 I’m currently learning & trying javascript <br/>
-         - 👯 I’m looking to collaborate on open-source projects. <br/>
-         - 🤔 I’m looking for help with web development and IOT projects. <br/>
-         - 💬 Ask me about web-dev
+         - 🔭 Worked professionally as Data Engineer on <a href="https://onepost.sasone.in">[OnePost]</a>&<a href="https://www.sasone.in/">[SASOne]</a> <br/>
+         🌱 I’m currently learning Spark with Scala.<br/>
+          👯 I’m looking to collaborate on open-source data science projects.<br/>
+          🤔 I’m looking for help with big data and designing and maintaining application pipeline, tools, and platforms.<br/>
+          💬 Ask me about data engineering and analytics.
 </div>
 <div align="center"> 
   <a href="mailto:rpoins@gmail.com">
@@ -30,8 +30,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Python,Sql,Pyspark,Spark" /><br>
-    <img src="https://skillicons.dev/icons?i=Hadoop,Airflow,Github,Aws" />
+  <img src="https://skillicons.dev/icons?i=Python,Sql,Pyspark,Spark" alt="Skill Icons 1" />
+<br>
+<img src="https://skillicons.dev/icons?i=Hadoop,Airflow,Github,Aws" alt="Skill Icons 2" />
+
 </div>
 
 <br/>
