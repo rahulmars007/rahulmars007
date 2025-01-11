@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-         - 🔭 Worked professionally as Data Engineer on <a href="https://onepost.sasone.in">[OnePost]</a>&<a href="https://www.sasone.in/">[SASOne]</a> <br/>
+         - 🔭 Worked professionally as Data Engineer <br/>
          🌱 I’m currently learning Spark with Scala.<br/>
           👯 I’m looking to collaborate on open-source data science projects.<br/>
           🤔 I’m looking for help with big data and designing and maintaining application pipeline, tools, and platforms.<br/>
