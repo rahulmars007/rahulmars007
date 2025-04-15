@@ -8,8 +8,8 @@
 <br/>
 
 <div align="center">
-         - 🔭 Worked professionally as Data Engineer <br/>
-         🌱 I’m currently learning Spark with Scala.<br/>
+         - 🔭 Worked professionally as Data Engineer in TCS <br/>
+         🌱 I’m currently working on PySpark, Sql and Aws .<br/>
           👯 I’m looking to collaborate on open-source data science projects.<br/>
           🤔 I’m looking for help with big data and designing and maintaining application pipeline, tools, and platforms.<br/>
           💬 Ask me about data engineering and analytics.
