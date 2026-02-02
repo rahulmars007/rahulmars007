@@ -1,79 +1,53 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rahulmars007" />
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&multiline=true&width=450&height=65&lines=Hi+There!+%F0%9F%91%8B;I'm+Rahul+Prajapati+" alt="Typing SVG" /></a>
-</h1>
+<h1 align="center">Rahul Prajapati</h1>
+<h3 align="center">Data Engineer | Big Data | AWS | Apache Spark</h3>
 
-<h3 align="center">Big Data Engineer specializing in developing large-scale data processing systems using the Spark framework (Spark Core, Spark SQL) with Scala, Python, and AWS services (EMR, EC2, S3). Seeking to leverage expertise in Spark, PySpark, Hadoop, and related technologies to contribute effectively to a dynamic team.</h3>
+<p align="center">
+Data Engineer with 3.5+ years of experience designing and optimizing large-scale, cloud-native data pipelines.  
+Specialized in Apache Spark, PySpark, AWS EMR, and Airflow with a strong focus on performance, reliability, and cost efficiency.
+</p>
 
-<br/>
+---
 
-<div align="center">
-         - 🔭 Worked professionally as Data Engineer in TCS <br/>
-         🌱 I’m currently working on PySpark, Sql and Aws .<br/>
-          👯 I’m looking to collaborate on open-source data science projects.<br/>
-          🤔 I’m looking for help with big data and designing and maintaining application pipeline, tools, and platforms.<br/>
-          💬 Ask me about data engineering and analytics.
-</div>
-<div align="center"> 
-  <a href="mailto:rpoins@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-prajapati-b6458a1b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--   <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options  -->
-  </a>
-</div>
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,aws" />
-</div>
+### 🔹 About Me
+- Data Engineer at **Tata Consultancy Services (TCS)**
+- Experience building enterprise-grade data lakes and ETL pipelines
+- Strong background in batch & near-real-time data processing
+- Passionate about clean data architecture and scalable systems
 
-<br/>
-<hr/>
+---
 
-<div align="center">
-<!--   <h2>🐍 My Contributions 🐍</h2> -->
-  <br>
-<!--   <img src="https://github.com/rahulmars007/rahulmars007/blob/output/github-contribution-grid-snake.gif"/> -->
-</div>
-<!-- ![snake gif](https://github.com/rahulmars007/rahulmars007/blob/output/github-contribution-grid-snake.gif) -->
+### 🔹 Tech Stack
 
-<hr/>
+**Big Data & Processing**
+- Apache Spark, PySpark, Hadoop, Hive
+- Scala, Python, SQL
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=rahulmars007&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rahulmars007&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-       <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rahulmars007&hide=HTML,CSS&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&%20exclude_repo=github-readme-stats%22%20alt=%22top%20langs" />
-</div>
-<br/><br/>
-<hr/>
+**Cloud (AWS)**
+- EMR, S3, EC2, Lambda
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+**Orchestration & Tools**
+- Apache Airflow, Autosys
+- Git, GitHub, GitLab
+- IntelliJ, DBeaver
 
-<br/>
+---
 
-<!--
-**rahulmars007/rahulmars007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Key Experience Highlights
+- Reduced ETL execution time by **20%+** through Spark optimizations
+- Designed and maintained **30+ production Airflow DAGs**
+- Built automated data quality checks reducing manual QA by **40%**
+- Worked on audience measurement & ad-targeting pipelines for US clients
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Connect With Me
+<p>
+<a href="mailto:rpoins@gmail.com">📧 Email</a> • 
+<a href="https://www.linkedin.com/in/rahul-prajapati-b6458a1b1/">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+<sub>Focused on building reliable data systems that scale.</sub>
+</p>
