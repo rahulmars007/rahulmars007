@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer | Big Data | AWS | Apache Spark</h3>
 
 <p align="center">
-Data Engineer with 3.5+ years of experience designing and optimizing large-scale, cloud-native data pipelines.  
+Data Engineer with 4+ years of experience designing and optimizing large-scale, cloud-native data pipelines.  
 Specialized in Apache Spark, PySpark, AWS EMR, and Airflow with a strong focus on performance, reliability, and cost efficiency.
 </p>
 
