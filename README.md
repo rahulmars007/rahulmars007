@@ -40,6 +40,37 @@ Specialized in Apache Spark, PySpark, AWS EMR, and Airflow with a strong focus o
 
 ---
 
+## 🔹 Project
+
+### **AI-Assisted Resume & Portfolio Platform – Resumepdfwala**
+<p>
+<a href="http://resumepdfwala.com/"> Resumepdfwala</a>
+</p>
+
+A full-stack platform designed to simplify resume creation and personal branding through AI-driven automation.
+
+#### 🚀 Key Features
+- 📄 **Automated Resume Generation** – Create professional resumes instantly using structured templates  
+- 🌐 **Portfolio Generation** – Generate shareable portfolio pages for personal branding  
+- 🤖 **AI-Powered Enhancements**
+  - Resume parsing and content extraction  
+  - Intelligent summary generation  
+  - Job description matching for better alignment  
+- 🧾 **PDF Export System** – Dynamic PDF generation with customizable templates  
+- 🗂️ **Template-Based Rendering** – Flexible and scalable design architecture for multiple resume formats  
+
+#### ⚙️ Technical Highlights
+- Built scalable backend handling user data and template rendering efficiently  
+- Implemented AI-assisted features to improve resume quality and relevance  
+- Designed system for fast content generation and seamless user experience  
+
+#### 💡 Impact
+- Enables users to build resumes and portfolios quickly with minimal manual effort  
+- Improves resume quality using AI-driven suggestions and optimization  
+- Demonstrates practical application of AI in real-world product development  
+
+---
+
 ### 🔹 Connect With Me
 <p>
 <a href="mailto:rpoins@gmail.com">📧 Email</a> • 
